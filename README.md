@@ -16,3 +16,6 @@ No projeto foram utilizados:
  - CSS
  - JavaScript
 
+# 🌐 Link para o quiz:
+
+https://marynakao.github.io/quiz-JavaScript/
